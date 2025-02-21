@@ -2,8 +2,6 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from pathlib import Path
-
 
 # Load data from a CSV file dumped in the repo
 data = pd.read_csv('data.csv')
